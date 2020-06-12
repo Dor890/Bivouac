@@ -1,0 +1,25 @@
+#imgThumb {
+  padding: 0;
+}
+
+#imgThumb2 {
+  padding: 0;
+}
+
+.img-thumbnail img {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.img-thumbnail .caption-full {
+  padding: 9px;
+}
+
+.delete-form {
+  display: inline;
+}
+
+.navbar.navbar-expand-md {
+  margin-bottom: 20px;
+}
